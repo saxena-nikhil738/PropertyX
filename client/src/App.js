@@ -17,7 +17,7 @@ import Property from "./components/Complaints/Property";
 
 function App() {
   {
-    document.title = `Complaint-Box`;
+    document.title = `PropertyX`;
   }
   return (
     <div>
